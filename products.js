@@ -150,7 +150,7 @@ const products = [
     sale: false,
     image:
       'https://cf.geekdo-images.com/0K1AOciqlMVUWFPLTJSiww__imagepage/img/pC5hC440R46jn4EpfdYV5rL4VOc=/fit-in/900x600/filters:no_upscale():strip_icc()/pic66668.jpg',
-    youtube: 'https://www.youtube.com/watch?v=2HfaNyzAkvQ?autoplay=1',
+    youtube: 'https://www.youtube.com/watch?v=Q0bWLcr-gX4?autoplay=1',
   },
   {
     id: 9,
@@ -167,7 +167,7 @@ const products = [
     sale: false,
     image:
       'https://cf.geekdo-images.com/kRvUgYiaOq07kC67ZK5UoQ__imagepage/img/ifaw5M-Z2eEFir0ImkbNzxMbaOk=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4900321.jpg',
-    youtube: 'https://www.youtube.com/embed/Q0bWLcr-gX4?autoplay=1',
+    youtube: 'https://www.youtube.com/watch?v=2HfaNyzAkvQ?autoplay=1',
   },
 ];
 
