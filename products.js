@@ -14,7 +14,7 @@ const products = [
     sale: true,
     image:
       'https://cf.geekdo-images.com/yLZJCVLlIx4c7eJEWUNJ7w__imagepage/img/uIjeoKgHMcRtzRSR4MoUYl3nXxs=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4458123.jpg',
-    youtube: 'https://www.youtube.com/embed/_g188X5vJCo?autoplay=1&mute=1',
+    youtube: 'https://www.youtube.com/embed/_g188X5vJCo?autoplay=1',
   },
   {
     id: 1,
@@ -31,7 +31,7 @@ const products = [
     sale: false,
     image:
       'https://cf.geekdo-images.com/USLqrf7LGR-W1oBmbVoN9w__imagepage/img/2_k-9Y5ReNfQtKYcmcsHN4i0pIU=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5508492.jpg',
-    youtube: 'https://www.youtube.com/embed/XKGqjFB7D6Y?autoplay=1&mute=1',
+    youtube: 'https://www.youtube.com/embed/XKGqjFB7D6Y?autoplay=1',
   },
   {
     id: 2,
@@ -48,7 +48,7 @@ const products = [
     sale: false,
     image:
       'https://cf.geekdo-images.com/clKFvn2bUUPbY62eSmc-ig__imagepage/img/dtZczndlVT0nOsFceQbM0yeAGVo=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4757839.png',
-    youtube: 'https://www.youtube.com/embed/ZlFelry1e1w?autoplay=1&mute=1',
+    youtube: 'https://www.youtube.com/embed/ZlFelry1e1w?autoplay=1',
   },
   {
     id: 3,
@@ -65,7 +65,7 @@ const products = [
     sale: false,
     image:
       'https://cf.geekdo-images.com/cCAAceyvbbqMXqX5QgwSmQ__imagepage/img/ytfqiJWea9uG8EHZ7ryDllrjhus=/fit-in/900x600/filters:no_upscale():strip_icc()/pic6257426.jpg',
-    youtube: 'https://www.youtube.com/embed/Ftq4t6aryo0?autoplay=1&mute=1',
+    youtube: 'https://www.youtube.com/embed/Ftq4t6aryo0?autoplay=1',
   },
   {
     id: 4,
@@ -82,7 +82,7 @@ const products = [
     sale: false,
     image:
       'https://cf.geekdo-images.com/RwZfncmOpD-UyfI-GOUjoA__imagepage/img/98qy3lkOMrFvvxld-VpS0l00Mms=/fit-in/900x600/filters:no_upscale():strip_icc()/pic7063621.jpg',
-    youtube: 'https://www.youtube.com/embed/ce-xLzn_oe4?autoplay=1&mute=1',
+    youtube: 'https://www.youtube.com/embed/ce-xLzn_oe4?autoplay=1',
   },
   {
     id: 5,
@@ -99,7 +99,7 @@ const products = [
     sale: false,
     image:
       'https://cf.geekdo-images.com/hNyO7u1pR3oSxKTELS7n2w__imagepage/img/ZTdESZYeAjRFjUecbH5bXu1Wp1M=/fit-in/900x600/filters:no_upscale():strip_icc()/pic2837103.png',
-    youtube: 'https://www.youtube.com/embed/jPac0pmLbak?autoplay=1&mute=1',
+    youtube: 'https://www.youtube.com/embed/jPac0pmLbak?autoplay=1',
   },
   {
     id: 6,
@@ -116,7 +116,7 @@ const products = [
     sale: false,
     image:
       'https://cf.geekdo-images.com/dJCtZr6_dFDIg4o8tMYqCA__imagepage/img/_uGOge0s9Nefkl3mfcZcHB7kLpE=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5089905.jpg',
-    youtube: 'https://www.youtube.com/embed/CzwOCmk5gVQ?autoplay=1&mute=1',
+    youtube: 'https://www.youtube.com/embed/CzwOCmk5gVQ?autoplay=1',
   },
   {
     id: 7,
@@ -133,7 +133,7 @@ const products = [
     sale: false,
     image:
       'https://cf.geekdo-images.com/0xqF_KyOb7V26Lu5YT3fxw__imagepage/img/sxzhjfiLwG7mtEkRpAvsw1P5cec=/fit-in/900x600/filters:no_upscale():strip_icc()/pic6699821.jpg',
-    youtube: 'https://www.youtube.com/embed/Soli678OMOE?autoplay=1&mute=1',
+    youtube: 'https://www.youtube.com/embed/Soli678OMOE?autoplay=1',
   },
   {
     id: 8,
@@ -150,7 +150,7 @@ const products = [
     sale: false,
     image:
       'https://cf.geekdo-images.com/0K1AOciqlMVUWFPLTJSiww__imagepage/img/pC5hC440R46jn4EpfdYV5rL4VOc=/fit-in/900x600/filters:no_upscale():strip_icc()/pic66668.jpg',
-    youtube: 'https://www.youtube.com/embed/Q0bWLcr-gX4?autoplay=1&mute=1',
+    youtube: 'https://www.youtube.com/watch?v=2HfaNyzAkvQ?autoplay=1',
   },
   {
     id: 9,
@@ -167,7 +167,7 @@ const products = [
     sale: false,
     image:
       'https://cf.geekdo-images.com/kRvUgYiaOq07kC67ZK5UoQ__imagepage/img/ifaw5M-Z2eEFir0ImkbNzxMbaOk=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4900321.jpg',
-    youtube: 'https://www.youtube.com/embed/Q0bWLcr-gX4?autoplay=1&mute=1',
+    youtube: 'https://www.youtube.com/embed/Q0bWLcr-gX4?autoplay=1',
   },
 ];
 
