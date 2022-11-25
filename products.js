@@ -152,6 +152,23 @@ const products = [
       'https://cf.geekdo-images.com/0K1AOciqlMVUWFPLTJSiww__imagepage/img/pC5hC440R46jn4EpfdYV5rL4VOc=/fit-in/900x600/filters:no_upscale():strip_icc()/pic66668.jpg',
     youtube: 'https://www.youtube.com/embed/Q0bWLcr-gX4?autoplay=1&mute=1',
   },
+  {
+    id: 9,
+    title: 'Marvel Champions: The Card Game',
+    price: 14.95,
+    category: 'Familie',
+    type: 'Campagne, Cooperatief, Deckbuilding, Hand management, Miniaturenspel',
+    publisher: 'CMON',
+    language: 'Nederlands',
+    players: '1-4',
+    playtime: '45-90',
+    age: '14',
+    desc: 'Marvel Champions: The Card Game is een coöperatieve Living Card Game waarin spelers in de huid kruipen van Marvel-helden die strijden om de plannen van gemene schurken te dwarsbomen. In het spel zullen spelers een beroep doen op iconische bondgenoten, krachtige wapens en bepantsering gebruiken en verwoestende tactieken ontketenen terwijl ze vechten om de schurken van het Marvel-universum te verslaan. \nIn elk scenario van Marvel Champions: The Card Game worden de helden geconfronteerd met een krachtige schurk met snode plannen, evenals hun eigen persoonlijke vijanden die in het heldendeck kunnen worden geschud. Bij elke beurt zullen spelers moeten beslissen of ze als een superheld willen spelen en de schurk direct willen bevechten, of in hun alter ego willen veranderen om schade te herstellen, hun troepen voor te bereiden en indirect tegen de schurk te vechten (wat een interessante strategische beslissing is tijdens elke beurt). Als de helden de slechterik kunnen verslaan voordat ze hun gemene plan hebben voltooid, winnen de helden het spel. ',
+    sale: false,
+    image:
+      'https://cf.geekdo-images.com/kRvUgYiaOq07kC67ZK5UoQ__imagepage/img/ifaw5M-Z2eEFir0ImkbNzxMbaOk=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4900321.jpg',
+    youtube: 'https://www.youtube.com/embed/Q0bWLcr-gX4?autoplay=1&mute=1',
+  },
 ];
 
 module.exports = products;
