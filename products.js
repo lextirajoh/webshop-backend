@@ -156,7 +156,7 @@ const products = [
     id: 9,
     title: 'Marvel Champions: The Card Game',
     price: 14.95,
-    category: 'Familie',
+    category: 'Strategie',
     type: 'Campagne, Cooperatief, Deckbuilding, Hand management, Miniaturenspel',
     publisher: 'CMON',
     language: 'Nederlands',
