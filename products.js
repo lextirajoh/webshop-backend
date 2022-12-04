@@ -154,7 +154,7 @@ const products = [
   },
   {
     id: 9,
-    title: 'Marvel Champions: The Card Game',
+    title: 'Marvel Champions',
     price: 14.95,
     category: 'Strategie',
     type: 'Campagne, Cooperatief, Deckbuilding, Hand management, Miniaturenspel',
