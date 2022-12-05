@@ -1,6 +1,6 @@
 const products = [
   {
-    id: 1,
+    id: 0,
     title: 'Gloomhaven',
     price: 99.95,
     category: 'Strategie',
@@ -15,7 +15,7 @@ const products = [
     youtube: 'https://www.youtube.com/embed/mKc5XhvkC8M',
   },
   {
-    id: 2,
+    id: 1,
     title: 'Bloodborne',
     price: 24.95,
     category: 'Strategie',
@@ -30,7 +30,7 @@ const products = [
     youtube: 'https://www.youtube.com/embed/ZlFelry1e1w',
   },
   {
-    id: 3,
+    id: 2,
     title: 'Food Chain Magnate',
     price: 79.95,
     category: 'Strategie',
@@ -45,7 +45,7 @@ const products = [
     youtube: 'https://www.youtube.com/embed/jHSxnRS2g0o',
   },
   {
-    id: 4,
+    id: 3,
     title: 'Twilight Struggle',
     price: 59.95,
     category: 'Strategie',
@@ -60,7 +60,7 @@ const products = [
     youtube: 'https://www.youtube.com/embed/w7ZLaIrq2_U',
   },
   {
-    id: 5,
+    id: 4,
     title: 'Wingspan',
     price: 29.95,
     category: 'Familie',
@@ -75,7 +75,7 @@ const products = [
     youtube: 'https://www.youtube.com/embed/_g188X5vJCo',
   },
   {
-    id: 6,
+    id: 5,
     title: 'The Castles of Burgundy',
     price: 39.95,
     category: 'Familie',
@@ -90,7 +90,7 @@ const products = [
     youtube: 'https://www.youtube.com/embed/aENpd1khRPA',
   },
   {
-    id: 7,
+    id: 6,
     title: 'Spirit Island',
     price: 79.95,
     category: 'Familie',
@@ -105,7 +105,7 @@ const products = [
     youtube: 'https://www.youtube.com/embed/Qj2OTrksMuY',
   },
   {
-    id: 8,
+    id: 7,
     title: 'Ticket to Ride',
     price: 14.95,
     category: 'Familie',
@@ -120,7 +120,7 @@ const products = [
     youtube: 'https://www.youtube.com/embed/MGaAPViyXo0',
   },
   {
-    id: 9,
+    id: 8,
     title: 'Marvel Champions',
     price: 59.95,
     category: 'Party',
@@ -135,7 +135,7 @@ const products = [
     youtube: 'https://www.youtube.com/embed/2HfaNyzAkvQ',
   },
   {
-    id: 10,
+    id: 9,
     title: 'Codenames',
     price: 19.95,
     category: 'Party',
@@ -150,7 +150,7 @@ const products = [
     youtube: 'https://www.youtube.com/embed/C97mCg9AxZc',
   },
   {
-    id: 11,
+    id: 10,
     title: 'Captain Sonar',
     price: 44.95,
     category: 'Party',
@@ -165,7 +165,7 @@ const products = [
     youtube: 'https://www.youtube.com/embed/Yjo4iXyDPtw',
   },
   {
-    id: 12,
+    id: 11,
     title: 'Decrypto',
     price: 19.95,
     category: 'Party',
