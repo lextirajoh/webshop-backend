@@ -54,7 +54,7 @@ const products = [
     id: 3,
     title: 'Dog Park',
     price: 19.95,
-    category: 'Strategie',
+    category: 'Familie',
     type: 'Campagne, Cooperatief, Deckbuilding, Hand management, Miniaturenspel',
     publisher: 'CMON',
     language: 'Engels',
