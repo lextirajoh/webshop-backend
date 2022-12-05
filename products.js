@@ -119,23 +119,9 @@ const products = [
       'https://cf.geekdo-images.com/0K1AOciqlMVUWFPLTJSiww__imagepage/img/pC5hC440R46jn4EpfdYV5rL4VOc=/fit-in/900x600/filters:no_upscale():strip_icc()/pic66668.jpg',
     youtube: 'https://www.youtube.com/embed/MGaAPViyXo0',
   },
+
   {
     id: 8,
-    title: 'Marvel Champions',
-    price: 59.95,
-    category: 'Party',
-    publisher: 'Fantasy Flight Games',
-    language: 'Engels',
-    players: '1-4',
-    playtime: '45-90',
-    age: '12',
-    desc: 'Marvel Champions: The Card Game is een coöperatieve Living Card Game waarin spelers in de huid kruipen van Marvel-helden die strijden om de plannen van gemene schurken te dwarsbomen. In het spel zullen spelers een beroep doen op iconische bondgenoten, krachtige wapens en bepantsering gebruiken en verwoestende tactieken ontketenen terwijl ze vechten om de schurken van het Marvel-universum te verslaan. \nIn elk scenario van Marvel Champions: The Card Game worden de helden geconfronteerd met een krachtige schurk met snode plannen, evenals hun eigen persoonlijke vijanden die in het heldendeck kunnen worden geschud. Bij elke beurt zullen spelers moeten beslissen of ze als een superheld willen spelen en de schurk direct willen bevechten, of in hun alter ego willen veranderen om schade te herstellen, hun troepen voor te bereiden en indirect tegen de schurk te vechten (wat een interessante strategische beslissing is tijdens elke beurt). Als de helden de slechterik kunnen verslaan voordat ze hun gemene plan hebben voltooid, winnen de helden het spel. ',
-    image:
-      'https://cf.geekdo-images.com/kRvUgYiaOq07kC67ZK5UoQ__imagepage/img/ifaw5M-Z2eEFir0ImkbNzxMbaOk=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4900321.jpg',
-    youtube: 'https://www.youtube.com/embed/2HfaNyzAkvQ',
-  },
-  {
-    id: 9,
     title: 'Codenames',
     price: 19.95,
     category: 'Party',
@@ -150,7 +136,7 @@ const products = [
     youtube: 'https://www.youtube.com/embed/C97mCg9AxZc',
   },
   {
-    id: 10,
+    id: 9,
     title: 'Captain Sonar',
     price: 44.95,
     category: 'Party',
@@ -165,7 +151,7 @@ const products = [
     youtube: 'https://www.youtube.com/embed/Yjo4iXyDPtw',
   },
   {
-    id: 11,
+    id: 10,
     title: 'Decrypto',
     price: 19.95,
     category: 'Party',
@@ -178,6 +164,21 @@ const products = [
     image:
       'https://cf.geekdo-images.com/hHZWXnUTMYDd_KTAM6Jwlw__imagepage/img/txjLrQy6eZNhk1caOxfTPn54mac=/fit-in/900x600/filters:no_upscale():strip_icc()/pic3759421.jpg',
     youtube: 'https://www.youtube.com/embed/jcM3Y9KchMs',
+  },
+  {
+    id: 11,
+    title: 'Marvel Champions',
+    price: 59.95,
+    category: 'Party',
+    publisher: 'Fantasy Flight Games',
+    language: 'Engels',
+    players: '1-4',
+    playtime: '45-90',
+    age: '12',
+    desc: 'Marvel Champions: The Card Game is een coöperatieve Living Card Game waarin spelers in de huid kruipen van Marvel-helden die strijden om de plannen van gemene schurken te dwarsbomen. In het spel zullen spelers een beroep doen op iconische bondgenoten, krachtige wapens en bepantsering gebruiken en verwoestende tactieken ontketenen terwijl ze vechten om de schurken van het Marvel-universum te verslaan. \nIn elk scenario van Marvel Champions: The Card Game worden de helden geconfronteerd met een krachtige schurk met snode plannen, evenals hun eigen persoonlijke vijanden die in het heldendeck kunnen worden geschud. Bij elke beurt zullen spelers moeten beslissen of ze als een superheld willen spelen en de schurk direct willen bevechten, of in hun alter ego willen veranderen om schade te herstellen, hun troepen voor te bereiden en indirect tegen de schurk te vechten (wat een interessante strategische beslissing is tijdens elke beurt). Als de helden de slechterik kunnen verslaan voordat ze hun gemene plan hebben voltooid, winnen de helden het spel. ',
+    image:
+      'https://cf.geekdo-images.com/kRvUgYiaOq07kC67ZK5UoQ__imagepage/img/ifaw5M-Z2eEFir0ImkbNzxMbaOk=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4900321.jpg',
+    youtube: 'https://www.youtube.com/embed/2HfaNyzAkvQ',
   },
 ];
 
